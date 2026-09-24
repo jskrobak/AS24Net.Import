@@ -1,0 +1,13 @@
+bin/
+obj/
+.vs/
+.idea/
+*.user
+*.DotSettings.user
+.DS_Store
+TestResults/
+# A copy of the old configuration to import holds certificates and passwords.
+/etc/
+/data/
+*.pfx
+*.p12
