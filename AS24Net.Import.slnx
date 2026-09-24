@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AS24Net.Import/AS24Net.Import.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AS24Net.Import.Tests/AS24Net.Import.Tests.csproj" />
+  </Folder>
+</Solution>
